@@ -43,6 +43,8 @@ java -jar target/nome-do-arquivo.jar
 http://localhost:8080/swagger-ui.html
 ```
 
+6. Tenha o PostgreSQL instalado e um banco de dados disponível para API, para mais detalhes, acesse o arquivo de configuração **.properties**
+
 ## Endpoints da API
 
 A API de CRUD de Clientes possui os seguintes endpoints:
