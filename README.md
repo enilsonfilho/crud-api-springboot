@@ -14,19 +14,34 @@ Certifique-se de ter os seguintes requisitos instalados:
 Siga as etapas abaixo para executar a aplicação:
 
 1. Clone o repositório para o seu ambiente local.
+
+```
 git clone https://github.com/enilsonfilho/crud-api-springboot.git
+```
 
 2. Acesse o diretório do projeto.
+
+```
 cd nome-do-repositorio
+```
 
 3. Compile o projeto com o Maven.
+
+```
 mvn clean install
+```
 
 4. Execute a aplicação.
+
+```
 java -jar target/nome-do-arquivo.jar
+```
 
 5. Acesse a documentação Swagger no seu navegador.
+
+```
 http://localhost:8080/swagger-ui.html
+```
 
 ## Endpoints da API
 
